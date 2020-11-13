@@ -1,0 +1,97 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Enjoy Chiloé",
+      "imgUrl": "https://source.unsplash.com/vmIWr0NnpCQ"
+    },
+    {
+      "id": 2,
+      "name": "The Ritz-Carlton",
+      "imgUrl": "https://source.unsplash.com/DGa0LQ0yDPc"
+    },
+    {
+      "id": 3,
+      "name": "Cumbres Puerto Varas",
+      "imgUrl": "https://source.unsplash.com/_pPHgeHz1uk"
+    },
+    {
+      "id": 4,
+      "name": "Hotel Frutillar",
+      "imgUrl": "https://source.unsplash.com/Koei_7yYtIo"
+    },
+    {
+      "id": 5,
+      "name": "Petrohue Lodge",
+      "imgUrl": "https://source.unsplash.com/9bdt03k4ujw"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "content": "Mensaje de prueba #1",
+      "date": "2020-10-05T14:48:00.000Z",
+      "fromUser": {
+        "id": 1,
+        "name": "Miguel Contreras"
+      }
+    },
+    {
+      "id": "2",
+      "content": "Test message #2",
+      "date": "2020-10-05T14:48:00.000Z",
+      "fromUser": {
+        "id": 1,
+        "name": "Miguel Contreras"
+      }
+    },
+    {
+      "id": "3",
+      "content": "Mensagem de teste número 3",
+      "date": "2020-10-05T14:48:00.000Z",
+      "fromUser": {
+        "id": 1,
+        "name": "Miguel Contreras"
+      }
+    },
+    {
+      "id": "4",
+      "content": "Testnachricht Nummer 4",
+      "date": "2020-10-05T14:48:00.000Z",
+      "fromUser": {
+        "id": 1,
+        "name": "Miguel Contreras"
+      }
+    }
+  ],
+  "payments": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "price": 399.99,
+      "idReservation": "AAJJ5677",
+      "Payments": "credit card",
+      "date": "2020-10-05T14:48:00.000Z"
+    },
+    {
+      "id": "hdmdu0aaaeeeselfc",
+      "price": 399.99,
+      "idReservation": "OOYY5612",
+      "Payments": "credit card",
+      "date": "2020-10-05T14:48:00.000Z"
+    },
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "price": 399.99,
+      "idReservation": "AAXX5699",
+      "Payments": "credit card",
+      "date": "2020-10-05T14:48:00.000Z"
+    },
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "price": 399.99,
+      "idReservation": "ZZJJ5997",
+      "Payments": "credit card",
+      "date": "2020-10-05T14:48:00.000Z"
+    }   
+  ]
+}
